@@ -1,34 +1,36 @@
 # Hi, I'm T.Abhishek 👋
 
-**Aspiring Data Analyst** — Python • SQL • Excel • Power BI • Tableau • Data Visualization
+📊 **Aspiring Data Analyst | Python • SQL • Excel • Power BI • Tableau**
 
-🔭 Current focus: Building Data Analytics & Dashboard Projects
-📊 Skilled in Data Cleaning, Reporting, KPI Tracking, and Business Insights
-✅ Experience with Excel Dashboards, SQL Queries, and Python Data Analysis
-🌱 Learning: Advanced SQL, Power BI,Tableau
-📫 Email: [abhishek282312@gmail.com]
-🌐 LinkedIn: https://www.linkedin.com/in/abhi2823/
+Passionate about exploring data, uncovering patterns, and transforming complex datasets into meaningful insights. Skilled in data analysis, data visualization, dashboard creation, and reporting.
 
-## Tech
+🔭 Building Data Analytics Projects and Dashboards
+📈 Strong interest in Data Analysis, Reporting, and Visualization
+💡 Experienced in Data Cleaning, KPI Tracking, and Insight Generation
+🌱 Currently learning Advanced SQL,
 
-Python • SQL • Excel • Power BI • Tableau • Pandas • NumPy • Scikit-learn • VS Code • Git • GitHub
+📫 **Email:** [abhishek282312@gmail.com]
+💼 **LinkedIn:** https://www.linkedin.com/in/abhi2823/
 
-## Projects 
+## Tech Stack
 
-### 1. Student Performance Analysis
+Python • SQL • Excel • Power BI • Tableau • Pandas • NumPy • Scikit-learn • Git • GitHub
 
-* Analyzed student performance data using Python and Excel
-* Created reports and visualizations to identify trends and insights
+## Projects
 
-### 2. Sales & Profit Dashboard
+📚 **Student Performance Analysis**
 
-* Built an interactive Excel dashboard using Pivot Tables, Charts, and Slicers
-* Tracked KPIs such as Sales, Profit, Quantity Sold, and Monthly Trends
+* Analyzed academic performance data to identify trends and patterns.
+* Created visual reports and actionable insights using Python and Excel.
 
-### 3. Face Recognition Attendance System
+📊 **Sales & Profit Dashboard**
 
-* Developed an automated attendance system using Python and Face Recognition
-* Reduced manual attendance effort through automation
+* Built an interactive dashboard to track sales, profit, and business performance.
+* Developed KPI-driven reports for effective data analysis.
 
-🎯 Open to Data Analyst, MIS Executive, Reporting Analyst, and Business Analyst opportunities.
+🤖 **Face Recognition Attendance System**
 
+* Developed an automated attendance system using Python and Face Recognition.
+* Improved attendance tracking efficiency through automation.
+
+🎯 **Open to Data Analyst, Reporting Analyst, and MIS Executive opportunities.**
