@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm T.Abhishek 👋
 
-<!--
-**abhi-analyst/abhi-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Analyst** — Python • SQL • Excel • Power BI • Tableau • Data Visualization
 
-Here are some ideas to get you started:
+🔭 Current focus: Building Data Analytics & Dashboard Projects
+📊 Skilled in Data Cleaning, Reporting, KPI Tracking, and Business Insights
+✅ Experience with Excel Dashboards, SQL Queries, and Python Data Analysis
+🌱 Learning: Advanced SQL, Power BI,Tableau
+📫 Email: [abhishek282312@gmail.com]
+🌐 LinkedIn: https://www.linkedin.com/in/abhi2823/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+
+Python • SQL • Excel • Power BI • Tableau • Pandas • NumPy • Scikit-learn • VS Code • Git • GitHub
+
+## Projects 
+
+### 1. Student Performance Analysis
+
+* Analyzed student performance data using Python and Excel
+* Created reports and visualizations to identify trends and insights
+
+### 2. Sales & Profit Dashboard
+
+* Built an interactive Excel dashboard using Pivot Tables, Charts, and Slicers
+* Tracked KPIs such as Sales, Profit, Quantity Sold, and Monthly Trends
+
+### 3. Face Recognition Attendance System
+
+* Developed an automated attendance system using Python and Face Recognition
+* Reduced manual attendance effort through automation
+
+🎯 Open to Data Analyst, MIS Executive, Reporting Analyst, and Business Analyst opportunities.
+
